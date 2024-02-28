@@ -1,4 +1,7 @@
-# Neuroimaging Transcriptomics
+# The myelin water imaging transcriptome: myelin water fraction regionally varies with oligodendrocyte-specific gene expression
+
+## Authors
+Jaimie J. Lee, Paulina S. Scheuren, Hanwen Liu, Cornelia Laule, Catrina M. Loucks, John L.K. Kramer.
 
 ## Overview
 This repository presents a neuroimaging transcriptomics pipeline developed for identifying gene expression patterns associated with the myelin water fraction (MWF) measure.
