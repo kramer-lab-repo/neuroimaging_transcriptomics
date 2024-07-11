@@ -2,6 +2,7 @@
 
 ## Authors
 Jaimie J. Lee, Paulina S. Scheuren, Hanwen Liu, Ryan W.J. Loke, Cornelia Laule, Catrina M. Loucks, John L.K. Kramer.
+
 Affiliation: University of British Columbia, Vancouver, BC, Canada
 
 ## Overview
